@@ -21,6 +21,6 @@ Predictor variables mainly fall into these categories: Type of house, location, 
 <li>numpy</li>
 <li>pandas</li>
 <li>matplotlib</li>
-<li>eaborn</li>
+<li>seaborn</li>
 <li>sklearn</li>
 <li>xgboost</li>
